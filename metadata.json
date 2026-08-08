@@ -1,0 +1,8 @@
+{
+  "name": "Tradeland",
+  "description": "Tradeland.tv - Premier Financial Education, Trading Courses, Market Analytics, and Airdrop Platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

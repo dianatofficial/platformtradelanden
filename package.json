@@ -1,0 +1,35 @@
+{
+  "name": "tradeland",
+  "version": "1.0.0",
+  "description": "Tradeland.tv - Premier Financial Education, Trading Courses, Market Analytics, and Airdrop Platform.",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react-router-dom": "6.23.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "recharts": "2.12.7",
+    "nanoid": "5.0.7",
+    "react-router": "6.23.1",
+    "lucide-react": "0.417.0",
+    "@google/genai": "0.15.0",
+    "react-window": "1.8.10",
+    "@types/react-window": "1.8.8",
+    "react-virtualized-auto-sizer": "1.0.24",
+    "react-hook-form": "7.52.1",
+    "sweetalert2": "11.12.2",
+    "@tanstack/react-query": "5.51.1",
+    "@tanstack/query-core": "^5.83.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}
